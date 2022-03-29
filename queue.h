@@ -1,8 +1,3 @@
-/* 
- * Developed by R. E. Bryant, 2017
- * Extended to store strings, 2018
- */
-
 /*
  * This program implements a queue supporting both FIFO and LIFO
  * operations.
